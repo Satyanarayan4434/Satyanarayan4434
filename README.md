@@ -123,38 +123,6 @@ I am actively seeking **entry-level / junior roles** where I can work on real sy
 
 ---
 
-## 🎯 Roles I Am Actively Targeting (Fresher – 2026)
-
-I am seeking **entry-level / junior roles** where I can work on real systems, learn from production environments, and grow into a strong Cloud & DevOps Engineer.
-
-### ☁️ Cloud-Focused Roles
-- **Cloud Engineer (Fresher / Junior)**
-- **Associate Cloud Engineer**
-- **Cloud Support Engineer (L1 / L2)**
-- **AWS Cloud Support Associate**
-- **Cloud Operations Engineer**
-- **Cloud Infrastructure Engineer (Junior)**
-
-### ⚙️ DevOps-Focused Roles
-- **DevOps Engineer (Fresher / Trainee)**
-- **Junior DevOps Engineer**
-- **DevOps Support Engineer**
-- **Site Reliability Engineer – Intern / Junior**
-- **Platform Support Engineer**
-- **Infrastructure Support Engineer**
-
-### 🔧 Support & Operations Roles
-- **Production Support Engineer**
-- **IT Infrastructure Engineer**
-- **Systems Engineer (Linux / Cloud)**
-- **Technical Support Engineer (Cloud Platforms)**
-- **NOC Engineer (Cloud & Infrastructure)**
-
-> These roles match my current hands-on experience with AWS, Linux, networking, monitoring, and infrastructure fundamentals.
-
-
----
-
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn → https://www.linkedin.com/in/satyanarayan-sen-a3a57b1b5/
