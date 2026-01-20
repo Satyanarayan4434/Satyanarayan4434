@@ -22,7 +22,7 @@ AWS • Linux • CI/CD • Automation • Cloud Support
     <img src="https://img.icons8.com/3d-fluency/40/domain.png" alt="Portfolio"/>
   </a>
   <a href="https://medium.com/@satyanarayan74sen" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/40/medium-logo.png" alt="Medium Blog"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" height="40"/>
   </a>
   <a href="https://www.credly.com/users/satyanarayan-sen/badges#credly" target="_blank">
     <img src="https://img.icons8.com/3d-fluency/40/certificate.png" alt="Certifications"/>
