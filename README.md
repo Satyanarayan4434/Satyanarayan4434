@@ -21,6 +21,9 @@ AWS • Linux • CI/CD • Automation • Cloud Support
   <a href="https://satyanarayansen.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/3d-fluency/40/domain.png" alt="Portfolio"/>
   </a>
+  <a href="https://medium.com/@satyanarayan74sen" target="_blank">
+    <img src="https://img.icons8.com/3d-fluency/40/medium-logo.png" alt="Medium Blog"/>
+  </a>
   <a href="https://www.credly.com/users/satyanarayan-sen/badges#credly" target="_blank">
     <img src="https://img.icons8.com/3d-fluency/40/certificate.png" alt="Certifications"/>
   </a>
@@ -35,8 +38,25 @@ AWS • Linux • CI/CD • Automation • Cloud Support
 - 🔧 Strong believer in **hands-on labs, real failures, and troubleshooting**
 - 📈 Preparing for **entry-level Cloud & DevOps roles (2026)**
 - 🧠 Curious about **system design, scalability, fault tolerance & automation**
+- ✍️ **Technical Writer** sharing cloud knowledge on Medium
 
-> 💡 I don’t just learn tools — I learn **why systems fail** and **how to make them resilient**.
+> 💡 I don't just learn tools — I learn **why systems fail** and **how to make them resilient**.
+
+---
+
+## 📝 Latest Blog Posts
+
+I write about cloud computing, AWS, and my learning journey to help beginners understand complex concepts through real-world examples.
+
+### Featured Articles:
+
+📌 **[Why AWS is the Market Leader in Cloud Computing (and Why Everyone is Learning It in 2026)](https://medium.com/@satyanarayan74sen/why-aws-is-the-market-leader-in-cloud-computing-and-why-everyone-is-learning-it-in-2026-6d8dfc9cad2c)**  
+*Exploring AWS dominance, market share, and why it's the go-to platform for cloud professionals*
+
+📌 **[What is Cloud Computing? Explained for Beginners with Real-Life Examples ☁️](https://medium.com/@satyanarayan74sen/what-is-cloud-computing-explained-for-beginners-with-real-life-examples-️-5d65eb8b4f43)**  
+*Breaking down cloud computing fundamentals using everyday analogies and practical scenarios*
+
+👉 **Read more on my [Medium Profile](https://medium.com/@satyanarayan74sen)**
 
 ---
 
@@ -107,7 +127,6 @@ I am actively seeking **entry-level / junior roles** where I can work on real sy
 
 ## 📂 Visit This Structured AWS Journey Repository
 
-
 - 📌 **Single README** → full learning journey
 - 📄 Notes maintained **only in PDF format**
 - 🔁 Updated **daily / weekly** with reflections
@@ -123,14 +142,15 @@ I am actively seeking **entry-level / junior roles** where I can work on real sy
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 - 💼 LinkedIn → https://www.linkedin.com/in/satyanarayan-sen-a3a57b1b5/
 - 💻 GitHub → https://github.com/Satyanarayan4434
 - 🌐 Portfolio → https://satyanarayansen.vercel.app/
+- ✍️ Medium → https://medium.com/@satyanarayan74sen
 
 ---
 
 <p align="center">
-<b>“Cloud is not about servers — it’s about responsibility.”</b> ☁️
+<b>"Cloud is not about servers — it's about responsibility."</b> ☁️
 </p>
