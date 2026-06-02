@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c9ff&height=220&section=header&text=Satyanarayan%20Sen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Infrastructure%20Automation&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117%2C50:1a73e8%2C100:00c9ff&amp;height=220&amp;section=header&amp;text=Satyanarayan%20Sen&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Infrastructure%20Automation&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%98%81%EF%B8%8F+Building+Resilient+Cloud+Infrastructure;%E2%9A%99%EF%B8%8F+Automating+DevOps+Pipelines+%7C+CI%2FCD;%F0%9F%94%A7+Linux+%7C+AWS+%7C+Docker+%7C+Jenkins+%7C+Terraform;%F0%9F%9A%80+Turning+Complex+Systems+into+Scalable+Solutions" alt="Typing SVG" /></a>
@@ -292,12 +292,12 @@ I write about cloud computing, AWS, and DevOps to help engineers understand comp
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Satyanarayan4434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&ring_color=1a73e8" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Satyanarayan4434&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00c9ff&amp;icon_color=00c9ff&amp;text_color=c9d1d9&amp;ring_color=1a73e8&amp;cache_seconds=86400" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanarayan4434&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=FF9900&currStreakLabel=00c9ff&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanarayan4434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanarayan4434&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00c9ff&amp;text_color=c9d1d9&amp;langs_count=8&amp;cache_seconds=86400" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -400,7 +400,7 @@ I write about cloud computing, AWS, and DevOps to help engineers understand comp
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a73e8,100:00c9ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117%2C50:1a73e8%2C100:00c9ff&amp;height=120&amp;section=footer" width="100%"/>
 
 <br/>
 
